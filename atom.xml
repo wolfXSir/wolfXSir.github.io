@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Ares`s Blog</title>
+  <title>浪小可の博客</title>
   
-  
+  <subtitle>拾取一粒粒的小确幸</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>Ares</name>
+    <name>浪小可</name>
     
   </author>
   
