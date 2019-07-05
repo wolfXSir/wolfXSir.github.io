@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-05-07T14:55:21.029Z</updated>
+  <updated>2019-06-22T08:02:01.520Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>诗0523</title>
+    <link href="http://yoursite.com/2019/05/23/%E9%82%A3%E8%AF%97/"/>
+    <id>http://yoursite.com/2019/05/23/那诗/</id>
+    <published>2019-05-22T16:33:21.000Z</published>
+    <updated>2019-06-22T08:02:01.520Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+&lt;center&gt;I love three things in the world,&lt;/center&gt;
+
+&lt;center&gt;sun,moon,and you&lt;/center&gt;
+
+&lt;center&gt;sun for the morning,&lt;/center&gt;
+
+&lt;center&gt;moon for the night,&lt;/center&gt;
+
+&lt;center&gt;And you forever&lt;/center&gt;
+    
+    </summary>
+    
+      <category term="诗" scheme="http://yoursite.com/categories/%E8%AF%97/"/>
+    
+    
+      <category term="汉字的魅力" scheme="http://yoursite.com/tags/%E6%B1%89%E5%AD%97%E7%9A%84%E9%AD%85%E5%8A%9B/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
